@@ -1,5 +1,5 @@
 {
-    "name": "MQTTClient",
+    "name": "paho-mqtt-embedded-c",
     "description": "MQTT Client Library. Paho code rearraged to work with platformio ide",
     "keywords": "wifi, http, web, server, client, websocket",
     "repository": {
