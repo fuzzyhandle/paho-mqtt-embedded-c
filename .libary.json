@@ -1,0 +1,19 @@
+{
+    "name": "MQTTClient",
+    "description": "MQTT Client Library. Paho code rearraged to work with platformio ide",
+    "keywords": "wifi, http, web, server, client, websocket",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fuzzyhandle/paho-mqtt-embedded-c.git"
+    },
+    "version": "1.0.0",
+    "license": "EPL",
+    "export": {
+        "exclude": [
+            "Debug",
+            ".settings"
+        ]
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
